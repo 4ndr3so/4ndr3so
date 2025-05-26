@@ -25,7 +25,7 @@ I believe in clean code, continuous learning, and solving real-world problems
 ## 📫 Let's Connect
 
 - 📧 Email: [lp.carlosorjuela@gmail.com](mailto:lp.carlosorjuela@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/andres-orjuela](https://www.linkedin.com/in/andres-orjuela) *(update this if needed)*  
+- 💼 LinkedIn: [linkedin.com/in/andres-orjuela](https://www.linkedin.com/in/andres-orjuela)
 - 🌐 Portfolio: [https://andresorjuelasso.com](https://andresorjuelasso.com)
 
 ---
